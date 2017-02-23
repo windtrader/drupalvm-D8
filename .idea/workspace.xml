@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68c27fb-75f9-4587-bd30-3d8bb5afcc85" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--local-tasks-block.html.twig_5eb63e19b6deff76462bf795528dfac00b846e5665d7991c3008149b346ffe06/19b59ac519bd030f099ea194292d1a7c38d915fb8cf0749a0c75a1f4b33f763c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--search-form-block.html.twig_5ef7209499020233c520571766583f8aec9c537e65bea5f7cf2731b6a96369bf/35fbcd723e030508f1c582cfb8f7a773c0fcb3395471d954c2a1b5d09bd9da8a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--search-form-block.html.twig_fbd1ed683544f2909ee52cb32e3b38ec6e9166935a8cb1a852d99fbfb98d1914/1e0a6e5955ac469775729678bfd36b6390adab23c3a840a700aefee885271eeb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--system-branding-block.html.twig_ef61a4653607be574274c718f85afd5ad55266d7ee6a1cf88eca7fd134d3447a/c713707413d2b8806de28465643daf94cdae6d6de0c5b1e119b9ad4202fc0bde.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--system-menu-block.html.twig_d615c3d3beb64b0c0da7357b2b6692a55ed6e5db0f166cab0702f2b6d9e8fb20/1f2456674bc6a685dfe6a3e65b5c72192c86993fddfd4ffee0822ff1240ed5c2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--system-menu-block.html.twig_da135208d2ba6368e601641a307def92ca78a5046925f3dff8022fec82cffd22/74cbf89317697fbf415743fb26d9a24d975c90d9749c50b5adbf613c89990709.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block--system-messages-block.html.twig_648d2252ab7fb7dd5a3e8b02038e78360a0dcc3446b5877f873ac3e2712b2d40/63401a09b1617db35d31f221015b9911b31ae684b8883968a20ed1ccefa12081.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_block.html.twig_349f12e10a88862a80883dc857b6c37f52abd5d726279ec21c6b343985eab587/6940fb6010e30746a33773417665640e40a2f5279d42a556fe47023b87a1c352.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_breadcrumb.html.twig_1f85107e064fd7c64bd2fc51c5550ec97190ca2d56f2568369af2b139ed11371/6b6c06448c78df282d69ec1c06e20fb4b881f78819569b12b3ec7d598ab8f223.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_container.html.twig_e72b58554b3f81d931f35f5c3b2d71a89d99fef24f653f38d1db17b4769ade13/9d3bffad4fc0c3116466ffc71484441bd70579671a7653f69afd79bb709595cd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_feed-icon.html.twig_1b31f0632807747efb85089a0c8af784356546594fa9f53e7df91f7e87b7e888/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_feed-icon.html.twig_1b31f0632807747efb85089a0c8af784356546594fa9f53e7df91f7e87b7e888/2a56e25ea8c478a70cd0dae4dc3be4237990e3d68aba92521593fcdf6601ae69.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_form--search-block-form.html.twig_83e22a78b1f538a19714dfd060e352df1fa3b755de0329b3c15297e1a3b8ea75/3fd9f3749fa8f43a1adddf2fe51f81b88f0331ce333cbbc5b4d3db7f7c5c9f44.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_form-element-label.html.twig_2c850af51105f1e181720c81dfb927a8284b8beec866c087cee14cd14f8d54de/623fcdc12cadd1791b6fabac179f3fa9fb66e20970f408be97e466ee7c14a9ad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_form-element.html.twig_74971321b771d72ec1d1d6ceb44cb2652499d72cb13a4e7be1d2ebe59c867e00/264184eb72c7d223a02b99368ca6c15da5947c4a6ba88acd58b6b0309fe2dbef.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_form.html.twig_c81f7933e987d8a1178f8b4ab4a2127cb6de97e5d03ea217d61e14b8bbe1040b/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_form.html.twig_c81f7933e987d8a1178f8b4ab4a2127cb6de97e5d03ea217d61e14b8bbe1040b/e153a8138357de50a10b8cb89f2dc4f69454cd7024c96ca67392816e2f1055f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_html.html.twig_810bfe18e47151589ffcf6a0e2cfb9cf636438c672d14c8ab2d9e3b805d6a8f4/035a5b4379f4968f71256f250d0c549c85785eea0c124570e30077a64beb9b89.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_input.html.twig_8d88ba418bc5a6328b60a64221dec1987c3ccf132dbbdeeac2eef663440dbbbc/392c5e6da7a7add0a343a1eb87a23cdb657765c23057f6999b89e6da7b1b270a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_links.html.twig_280f5435f18f3c001f80283fc1ec85b219380f47112fcbf1405c9b1b350cfb91/74100231d729bbf7cc6c575c656b6584aad0a5dfdb85bb5c9eb756bc59866448.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_menu--toolbar.html.twig_ac4c87fa75c7e578d620c753fb28d75e5be705d75a86c49c9004c0b9af15a768/4a9c62e75553d7626a4ef395b9e78131ef9f49e5be72b67b08c4e560dc6bbf9d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_menu-local-task.html.twig_0b26410d19695e785a643cf72b3347af862cd45bb5dfb1b46e2bab41277ea7a7/b49ffbb4be5cdfa7707a58473e286a5fd6edf9203dcf4de7ca3ba70faf5399d3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_menu-local-tasks.html.twig_f94f6ad0a7cca029a5f56fbd5c96590b0202982fe746c3bbebadca9254e5c69e/c5ec4c788d12e51deb695cd9fc5be547402c1907e93e40b73c776bae78072234.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_menu.html.twig_ebfe3d9d426b00161d82cb87d5584af2c21f3295674298986d6507966ca10c8f/5e68a31df0fa76c713f96847aff42ba405c0520111a0f1ae6d86f5404e4bb459.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_page-title.html.twig_2a3db6273adbb96a859aa7df6ec9993a77515628898abda80207d63e677385bc/d2a67eda17fa2487c822dd5972b5548c6d5c1682d4ec5a4bf81ff20cd568351b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_page-title.html.twig_aeef3ea12ea24071fd5d74fd7c8ff61db1ed489d30c4a62929e7b5adc30ed3aa/703f6a956993b72a459de0aa00809b5d126764566a0c41a7508defd5484a7b1d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_page.html.twig_bb9c2eacccb1e32c8badc5c14c790412b5483a3f694407b73b34b1dbadc5b37c/5a889d2ecdde6526fd8cc7d6b59b7a2817c50785ef2aaab8c7840814dbaa6930.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_pager.html.twig_b1b088ebd47f50076d3da1a7d19cd3c9ec9e99013413f70e103274fcc399cdac/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_pager.html.twig_b1b088ebd47f50076d3da1a7d19cd3c9ec9e99013413f70e103274fcc399cdac/053573150be6120ec6d56da13771fb659a30f77304d7739c4518385859c1b374.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_region--header.html.twig_973ab503d8214f68e3bde37f8bca784f2b94cb5012fffd17e538a9737e4000d2/c1eb7185438c8d9548472c62e057898fde827131c1709b7218ee684cde43f126.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_region.html.twig_311ddf326c3de6a6e9b8316f6f2b88f501e51bf84e82b8fa0d148f094acefd22/94628559f4767a0fc7284250c07bc7273f65bd43787062873d7a43cbb37a0c13.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_status-messages.html.twig_c5f263e439c4aa982d1b6047b9f3e504ace954b28283e74556ced9a5947903b0/3feca575c09bc83ae1f9dd65ba830a6b1b64688f64e64380ee458b7d8f215cc8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_status-messages.html.twig_dc8862b15a102ce6086fae0d05e80c0ee1c9b2160c50c365052592aac1989093/20fb49aab114288ffb04f16746d742c40adf9b8a05ac9ebdb89906b429cf523c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_toolbar.html.twig_e8e4b95c330535dd39c5fb9b11c3f2f55692721c74a71163b9c9340cb36394d5/df3f9b7037c5bd9b996819ee3ef033eda22bb097012227b9e5baf4b0c5dc44a8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_user.html.twig_29344daf6dbabf4aeaf3258c8388e9b83d6bf21e07934e47a313a2f903366725/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_user.html.twig_29344daf6dbabf4aeaf3258c8388e9b83d6bf21e07934e47a313a2f903366725/33178b234e03913f076b1a5c2c180ec80b34e3afcca94ff4b595b78db62c7a32.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_views-view.html.twig_332f3008a37226fd1e066742275b8fc58b7cc77ccb2aebc762b0d1b2b6b1cb9e/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/a90babfc_views-view.html.twig_332f3008a37226fd1e066742275b8fc58b7cc77ccb2aebc762b0d1b2b6b1cb9e/0cdbf3e1fa641827180d14850e6c8ff0c7d2958cb2f56d3804fa1b040eff9abb.php" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$/web</drupalPath>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="drupal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/core/themes/bartik/css/base/elements.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="drupalvm.dev" id="85fc14ef-b839-4039-8f36-be12adf44884" name="drupalvm.dev" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/web" remote-root="/var/www/drupalvm/drupal/web" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="256" />
+    <option name="y" value="23" />
+    <option name="width" value="1054" />
+    <option name="height" value="668" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/drupal/web/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68c27fb-75f9-4587-bd30-3d8bb5afcc85" name="Default" comment="" />
+      <created>1487831122627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487831122627</updated>
+      <workItem from="1487831125012" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="256" y="23" width="1054" height="668" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988144" sideWeight="0.4905149" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909092" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49272728" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988144" sideWeight="0.50948507" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/core/themes/bartik/css/base/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
